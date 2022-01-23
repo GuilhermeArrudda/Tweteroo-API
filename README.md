@@ -3,4 +3,15 @@ Essa API foi criada para aproximar pessoas com interesses em comum e disseminar 
 
 Para fazer parte é bem simples, crie um nome de usuário único e utilize uma URL para adicionar uma imagem ao seu perfil. Após isso pode fazer seus Tweets e compartilhar seus pensamentos. Detalhe importante é que apenas os 10 últimos tweets apareceram na tela.
 
-O servidor roda na porta 5000 do usuário local.
+## Instalar Dependências
+
+Essa API faz uso das seguintes bibliotecas:
+- Express;
+- Cors;
+
+```bash
+npm install
+```
+## Scripts
+
+- `npm start`: start the server
